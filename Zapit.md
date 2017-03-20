@@ -51,6 +51,11 @@ _Система підтримки прийняття рішень_, є одні
 
 **Оператор** - особа, яка організовує зв'язок між замовниками і розробниками.
 
+### 2.1. Приклади існуючих систем
+* [TIBCO Spotfire](http://spotfire.tibco.com/)
+* [SAP BusinessObjects](http://supportrevolution.com)
+* [QlikView](http://www.qlik.com/ru-ru)
+
 ## 3.	Ділові правила
 
 ### 3.1.	Призначення системи
