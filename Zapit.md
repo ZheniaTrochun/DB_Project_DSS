@@ -55,6 +55,7 @@ _Система підтримки прийняття рішень_, є одні
 * [TIBCO Spotfire](http://spotfire.tibco.com/)
 * [SAP BusinessObjects](http://supportrevolution.com)
 * [QlikView](http://www.qlik.com/ru-ru)
+* [Power BI](https://powerbi.microsoft.com/ru-ru/)
 
 ## 3.	Ділові правила
 
