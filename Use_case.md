@@ -2,7 +2,7 @@
 
 ## Діаграма загальних прецедентів
 ![](https://raw.githubusercontent.com/Makarenko98/DB_Project_DSS/master/Use%20case/General%20precedents.png)
-##Прецедент "Перегляд загального контенту"
+## Прецедент "Перегляд загального контенту"
 ![](https://raw.githubusercontent.com/Makarenko98/DB_Project_DSS/master/Use%20case/View%20content.png)
 ## Прецедент "Розробка панелі"
 ![](https://raw.githubusercontent.com/Makarenko98/DB_Project_DSS/master/Use%20case/Development%20panel.png)
