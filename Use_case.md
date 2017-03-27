@@ -1,4 +1,4 @@
-#Діаграми
+# Діаграми
 
 ## Діаграма загальних прецедентів
 ![](https://raw.githubusercontent.com/Makarenko98/DB_Project_DSS/master/Use%20case/General%20precedents.png)
