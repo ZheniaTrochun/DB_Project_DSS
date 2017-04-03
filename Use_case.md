@@ -10,6 +10,8 @@
 ![](https://raw.githubusercontent.com/Makarenko98/DB_Project_DSS/master/Use%20case/Development%20panel.png)
 ## Прецедент "Робота з персональною тематичною панеллю"
 ![](https://raw.githubusercontent.com/Makarenko98/DB_Project_DSS/master/Use%20case/Work%20with%20panel.png)
+## Прецедент "Реєстрація замовлення"
+![](https://github.com/ZheniaTrochun/DB_Project_DSS/blob/Mark/Operator/Registration.png)
 ## Прецедент "Комунікація замовник-розробник"
 ![](https://raw.githubusercontent.com/Makarenko98/DB_Project_DSS/master/Use%20case/%D0%A1ommunication%20of%20client-developer.png)
 ## Прецедент "Комунікація розробник-замовник"
