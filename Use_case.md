@@ -19,6 +19,7 @@
 ## Прецедент "Комунікація оператор-користувачі"
 ![](https://raw.githubusercontent.com/Makarenko98/DB_Project_DSS/master/Use%20case/%D0%A1ommunication%20of%20operator-user.png)
 
+
 # Сценарії виконання прецедентів  
 
 **ID:** UC 001  
