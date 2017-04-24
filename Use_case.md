@@ -1,23 +1,23 @@
 # Діаграми
 
 ## Діаграма загальних прецедентів
-![](https://raw.githubusercontent.com/Makarenko98/DB_Project_DSS/master/Use%20case/General%20precedents.png)
+![](https://raw.githubusercontent.com/Makarenko98/DB_Project_DSS/master/Use%20case/img/General%20precedents.png)
 ## Прецедент "Перегляд загального контенту"
-![](https://raw.githubusercontent.com/Makarenko98/DB_Project_DSS/master/Use%20case/View%20content.png)
+![](https://raw.githubusercontent.com/Makarenko98/DB_Project_DSS/master/Use%20case/img/View%20content.png)
 ## Прецедент "Реєстрація замовлення"
-![](https://raw.githubusercontent.com/Makarenko98/DB_Project_DSS/master/Use%20case/Work%20with%20panel.png)
+![](https://raw.githubusercontent.com/Makarenko98/DB_Project_DSS/master/Use%20case/img/Work%20with%20panel.png)
 ## Прецедент "Розробка панелі"
-![](https://raw.githubusercontent.com/Makarenko98/DB_Project_DSS/master/Use%20case/Development%20panel.png)
+![](https://raw.githubusercontent.com/Makarenko98/DB_Project_DSS/master/Use%20case/img/Development%20panel.png)
 ## Прецедент "Робота з персональною тематичною панеллю"
-![](https://raw.githubusercontent.com/Makarenko98/DB_Project_DSS/master/Use%20case/Work%20with%20panel.png)
+![](https://raw.githubusercontent.com/Makarenko98/DB_Project_DSS/master/Use%20case/img/Work%20with%20panel.png)
 ## Прецедент "Реєстрація замовлення"
 ![](https://github.com/ZheniaTrochun/DB_Project_DSS/blob/Mark/Operator/Registration.png)
 ## Прецедент "Комунікація замовник-розробник"
-![](https://raw.githubusercontent.com/Makarenko98/DB_Project_DSS/master/Use%20case/%D0%A1ommunication%20of%20client-developer.png)
+![](https://raw.githubusercontent.com/Makarenko98/DB_Project_DSS/master/Use%20case/img/%D0%A1ommunication%20of%20client-developer.png)
 ## Прецедент "Комунікація розробник-замовник"
-![](https://raw.githubusercontent.com/Makarenko98/DB_Project_DSS/master/Use%20case/%D0%A1ommunication%20of%20developer-client.png)
+![](https://raw.githubusercontent.com/Makarenko98/DB_Project_DSS/master/Use%20case/img/%D0%A1ommunication%20of%20developer-client.png)
 ## Прецедент "Комунікація оператор-користувачі"
-![](https://raw.githubusercontent.com/Makarenko98/DB_Project_DSS/master/Use%20case/%D0%A1ommunication%20of%20operator-user.png)
+![](https://raw.githubusercontent.com/Makarenko98/DB_Project_DSS/master/Use%20case/img/%D0%A1ommunication%20of%20operator-user.png)
 
 
 # Сценарії виконання прецедентів  
