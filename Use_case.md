@@ -5,7 +5,7 @@
 ## Прецедент "Перегляд загального контенту"
 ![](https://raw.githubusercontent.com/Makarenko98/DB_Project_DSS/master/Use%20case/img/View%20content.png)
 ## Прецедент "Реєстрація замовлення"
-![](https://raw.githubusercontent.com/Makarenko98/DB_Project_DSS/master/Use%20case/img/Work%20with%20panel.png)
+![](https://raw.githubusercontent.com/Makarenko98/DB_Project_DSS/master/Use%20case/img/Registration%20order.png)
 ## Прецедент "Розробка панелі"
 ![](https://raw.githubusercontent.com/Makarenko98/DB_Project_DSS/master/Use%20case/img/Development%20panel.png)
 ## Прецедент "Робота з персональною тематичною панеллю"
